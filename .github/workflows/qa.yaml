@@ -16,4 +16,4 @@ jobs:
       - name: Install dependencies
         run: yarn install
       - name: Prettier
-        run: prettier --write src/
+        run: yarn run prettier

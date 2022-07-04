@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
+    "prettier": "prettier --write src/",
     "build": "vite build",
     "preview": "vite preview"
   },
